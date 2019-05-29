@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Monil Soni -- SDE1 -- monil@Amazon
 
 # THANKS
 
