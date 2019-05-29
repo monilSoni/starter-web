@@ -15,6 +15,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 This is a simple web project, deplotment can be on any web server or even local file system
 
 ## How to contribute
+Please fork this repository and then issue Pull Requests for review. 
 
 ### Copyright
 
